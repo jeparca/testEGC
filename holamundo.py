@@ -1,6 +1,5 @@
 print "hola mundo"
 
-
-print "adios mundo y gracias!"
+print "Adios y gracias por venir"
 
 print "Testing branches"
